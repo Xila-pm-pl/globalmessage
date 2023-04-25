@@ -18,13 +18,13 @@ config-message:
     - "§a» your message !"
     - "§a» made by xilapmpl !"
 
-# ALLOWS TO CONFIGURE THE SETTINGS
+ALLOWS TO CONFIGURE THE SETTINGS
 
 config-settings:
   interval-message: 120
-  type: "message" #(message | popup | toast)> ```
+  type: "message" #(message | popup | toast)>```
 
-### color codes 
+# Color codes 
 Text format (Available on PocketMine console and on MCPE since v0.11.0):
 
 Colors:
