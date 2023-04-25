@@ -1,0 +1,9 @@
+name: GlobalMessage
+version: "1.0"
+api: ["4.0.0"]
+main: GlobalMessage\Main
+
+#OWNER INFORMATION'S
+
+author: Xila
+github: Xila-pm-pl
